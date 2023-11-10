@@ -8,6 +8,13 @@ PLATEAU 3D Tiles for Iwaki in 3D Tiles version 1.1
 ## Releases
 - no releases yet
 
+## How to use
+```zsh
+git clone https://github.com/optgeo/iwaki1011
+cd iwaki1011
+make get # get 3D Tiles 1.0(?) tileset from UN Smart Maps Bazaar
+```
+
 ## See also
 - [gh:CesiumGS/3d-tiles-tools](https://github.com/CesiumGS/3d-tiles-tools)
 - [UN Smart Maps Group](https://unopengis.github.io/smartmaps)
